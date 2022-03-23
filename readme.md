@@ -1,5 +1,8 @@
 # Project Setup
 TEST 2
+* [Production Deployment](https://project-2-is219-prod.herokuapp.com/)
+[![Production Workflow](https://github.com/GraceBurke-88/flask_auth/actions/workflows/prod.yml/badge.svg)](https://github.com/GraceBurke-88/flask_auth/actions/workflows/prod.yml)
+
 
 [![Production Workflow](https://github.com/kaw393939/docker_flask/actions/workflows/prod.yml/badge.svg)](https://github.com/kaw393939/docker_flask/actions/workflows/prod.yml)
 
