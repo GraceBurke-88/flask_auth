@@ -1,5 +1,4 @@
 # Project Setup
-TEST 2
 
 [![Grace's Production Workflow](https://github.com/GraceBurke-88/flask_auth/actions/workflows/prod.yml/badge.svg)](https://github.com/GraceBurke-88/flask_auth/actions/workflows/prod.yml)
 
